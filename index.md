@@ -3,4 +3,4 @@
 # Labs
 ## [lab01](lab01.Rmd)
 # Data
-## [data](Readme.md) 
+## [data](data/Auto.data) 
