@@ -6,5 +6,6 @@
 ## [lab03](lab03.Rmd)
 # Data
 ## AutoData [data](data/Auto.data) 
-## CollegeData [data](data/data/College.csv) 
+## CollegeData [data](data/College.csv) 
+## CreditData [data](data/Credit.csv) 
 
