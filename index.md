@@ -9,5 +9,9 @@
 ## CollegeData [data](data/College.csv) 
 ## CreditData [data](data/Credit.csv) 
 ## HeartData [data](data/Heart.csv) 
+## IncomeData-1 [data](data/Income1.csv) 
+## IncomeData-2 [data](data/Income2.csv) 
+
+
 
 
