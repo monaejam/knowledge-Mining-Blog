@@ -8,4 +8,6 @@
 ## AutoData [data](data/Auto.data) 
 ## CollegeData [data](data/College.csv) 
 ## CreditData [data](data/Credit.csv) 
+## HeartData [data](data/Heart.csv) 
+
 
