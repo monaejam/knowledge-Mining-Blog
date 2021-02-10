@@ -1,5 +1,5 @@
 
 
 # Labs
-## [lab01](lab01.html)
+## [lab01](lab01.Rmd)
 
